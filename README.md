@@ -9,7 +9,7 @@ Vegan ice cream in boston
 Dairy free ice cream in Boston
 Cococunt milk ice cream in Boston
 ```
-The script, *keyword_scraper.py* reads in each of these keywords, searches google and returns the first 10 results (headlines & links). This output allows someone to quickly get a sense for google ranking based on these keywords. The results are output to a csv file:
+The script, *keyword_scraper.py* reads in each of these keywords, searches google and returns the first results (headlines & links). This output allows someone to quickly get a sense for google ranking based on these keywords. The results are output to a csv file. Here's a sample of the output:
 ![output_keywords](https://user-images.githubusercontent.com/40340806/54774196-8e61a700-4be1-11e9-961d-ed934ec0644a.png)
 
 ### Project 2: Top Chapter Books - I wanted to build a tool that allowed me to accumulate a list of top books for my niece 
