@@ -17,7 +17,7 @@ The script, *keyword_scraper.py* reads in each of these keywords, searches googl
 
 This script first allows you to select how many pages of this list you'd like to pull. The script pulls the book title, link to the specific goodreads page for the book, the author, the community score, and the overall Goodreads rating. All of these results are printed to a CSV file. Here's a sample of the output:
 
-![book_output](https://user-images.githubusercontent.com/40340806/54774845-08def680-4be3-11e9-9153-a3f91066aa3b.png)
+![updated_book_output](https://user-images.githubusercontent.com/40340806/54776628-e64edc80-4be6-11e9-9927-d01b70776cac.png)
 
 ### Project 3: Top News - Quickly get up to speed on the top news stories
 *news_scraper.py*
